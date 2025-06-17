@@ -87,7 +87,7 @@ const developer = {
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelangep1p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelangep1p&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-## 💼 Experiencia & Skills
+## 💼  Skills Extra
 
 <div align="center">
 
@@ -109,6 +109,7 @@ const developer = {
 </div>
 
 🌟 Fun Facts<br>
+
 🌙 Nocturno: Me concentro mejor al programar de noche.
 
 🎮 Gamer: Disfruto los videojuegos en mi tiempo libre.
