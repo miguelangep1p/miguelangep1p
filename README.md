@@ -93,25 +93,16 @@ const developer = {
 
 <div align="center">
 
-### 🎯 **Especialidades**
+### 🎯 **Especialidades Adicionales**
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/><br>
-<strong>Laravel</strong><br>
-<em>2 años</em>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br>
-<strong>React Developer</strong><br>
-</td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br>
 <strong>Database Design</strong><br>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/><br>
 <strong>Cloud Computing</strong><br>
 </td>
 </tr>
