@@ -23,7 +23,7 @@
 **🎓 Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Trujillo  
 **📍 7mo Ciclo** | **🇵🇪 Trujillo, Perú**
 
-Soy un desarrollador apasionado que vive y respira código. Mi misión es transformar ideas complejas en soluciones digitales elegantes y escalables. Con más de **3 años** desarrollando con **Laravel** y tecnologías modernas.
+Soy un desarrollador apasionado que vive y respira código. Mi misión es transformar ideas complejas en soluciones digitales elegantes y escalables. Con **2 años** desarrollando con tecnologías modernas.
 
 ### 💡 **Mi Philosophy**
 ```javascript
