@@ -116,11 +116,12 @@ const developer = {
 
 <img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-- 🌙 **Night Owl:** Mis mejores códigos salen después de las 10 PM
+- 🌙 **Pensador Nocturno:** Mis mejores códigos salen después de las 10 PM
 - 🎮 **Gamer:** Juego en tiempo libre
-- 📚 **Bookworm:** Leo libros por pasion
-- 🎵 **Music:** Musica mientras codifico
-- 🌮 **Foodie:** Especialista en encontrar la mejor comida de Trujillo
+- 📚 **Amante de los Libros:** Leo libros por pasion
+- 🎵 **Musica:** Escucho musica mientras codifico
+- 🌮 **Comida:** Especialista en encontrar la mejor comida de Trujillo
+- 🐾 **Pet Lover:** Me encantan los animales!
 
 <br clear="left"/>
 
