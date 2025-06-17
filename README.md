@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hola soy Miguel Angel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+# Hola soy Miguel Angel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer+Full+Stack+en+formación+constante;Laravel+%26+Full+Stack+En+Constante+Aprendizaje;Construyendo+el+Futuro+con+Código;7mo+Ciclo+%7C+Apasionado+por+la+Tecnología)](https://git.io/typing-svg)
 
