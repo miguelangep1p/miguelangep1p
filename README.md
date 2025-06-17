@@ -91,39 +91,6 @@ const developer = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight&hide_border=true&border_radius=10)
 
-</div>
-
----
-
-## 🎯 Current Status
-
-<img align="right" alt="Learning" width="200" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
-
-### 📚 **Formación Académica**
-**Universidad Nacional de Trujillo**  
-🎓 *Ingeniería de Sistemas* • 7mo Ciclo  
-📅 *2021 - 2025*
-
-### 🔥 **Currently Working On**
-```typescript
-const currentProjects = {
-  🏢 enterprise: "Laravel ERP System v2.0",
-  📚 learning: "AWS Solutions Architect",
-  📖 reading: "Domain-Driven Design",
-  🎯 goal: "Senior Full Stack Developer"
-}
-```
-
-### 🏅 **Logros Recientes**
-- ✅ **Laravel Expert** - 15+ aplicaciones en producción
-- ✅ **Team Lead** - Liderando equipo de 4 developers  
-- ✅ **Mentor** - 20+ estudiantes guiados
-- ✅ **Speaker** - Tech talks en la universidad
-
-<br clear="right"/>
-
----
-
 ## 💼 Experiencia & Skills
 
 <div align="center">
