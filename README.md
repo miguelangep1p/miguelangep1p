@@ -80,91 +80,14 @@ const developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
 
----
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 **Sistema ERP Empresarial**
-![ERP](https://img.shields.io/badge/Status-En_Producción-00C851?style=flat-square)
-
-**Stack:** Laravel 11 • MySQL • Vue.js • Redis
-
-🎯 **Impact:** +10K transacciones diarias  
-📊 **Módulos:** Inventario, Facturación, RRHH  
-⚡ **Performance:** 99.9% uptime  
-
-```php
-// Clean Architecture Implementation
-class ERPController extends Controller 
-{
-    public function dashboard(): JsonResponse
-    {
-        return $this->businessService
-            ->getMetrics()
-            ->toApiResponse();
-    }
-}
-```
-
-</td>
-<td width="50%">
-
-### 🛒 **E-commerce Platform**
-![Ecommerce](https://img.shields.io/badge/Status-MVP_Ready-2196F3?style=flat-square)
-
-**Stack:** React • Node.js • MongoDB • Stripe
-
-🚀 **Features:** Pagos en tiempo real  
-📱 **Mobile:** Progressive Web App  
-🔒 **Security:** JWT + OAuth2  
-
-```javascript
-// Modern React Hooks
-const usePayment = () => {
-  const [loading, setLoading] = useState(false)
-  
-  const processPayment = async (amount) => {
-    setLoading(true)
-    // Payment logic here
-  }
-  
-  return { processPayment, loading }
-}
-```
-
-</td>
-</tr>
-</table>
-
-### 📱 **App Universitaria UNT**
-![University](https://img.shields.io/badge/Status-Beta_Testing-FF9800?style=flat-square)
-
-**Stack:** Angular • Spring Boot • PostgreSQL • Docker
-
-**Features destacadas:**
-- 📚 Gestión académica completa
-- 📊 Analytics en tiempo real  
-- 🔔 Notificaciones push
-- 📱 Aplicación móvil híbrida
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelangep1p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelangep1p&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight&hide_border=true&border_radius=10)
 
