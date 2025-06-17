@@ -6,11 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)]((https://www.linkedin.com/in/miguel-cabanillas-257205308/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcabanillasurbina@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=3b82f6)
+![Profile Views](https://komarev.com/ghpvc/?username=miguelangep1p&style=for-the-badge&color=3b82f6)
 
 </div>
 
@@ -89,7 +88,7 @@ const developer = {
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelangep1p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelangep1p&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=miguelangep1p&theme=tokyonight&hide_border=true&border_radius=10)
 
 ## 💼 Experiencia & Skills
 
@@ -169,10 +168,9 @@ graph LR
 
 ### 🌐 **Find Me Online**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Angel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-miguelangel.dev-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-miguel.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@miguel_angel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Angel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-cabanillas-257205308)
+[![Gmail](https://img.shields.io/badge/Gmail-miguel.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcabanillasurbina@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@miguel_angel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelangep1p)
 
 ### 💬 **Let's Talk About**
 🚀 **Proyectos innovadores** • 💼 **Oportunidades laborales** • 🤝 **Colaboraciones**  
