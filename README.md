@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Miguel Angel
+# 👨‍💻 Hola soy Miguel Angel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%40+UNT;Laravel+%26+Full+Stack+Expert;Building+the+Future+with+Code;7mo+Ciclo+%7C+Passionate+Developer)](https://git.io/typing-svg)
 
@@ -28,16 +28,16 @@ Soy un desarrollador apasionado que vive y respira código. Mi misión es transf
 ```javascript
 const developer = {
     name: "Miguel Angel",
-    passion: "Solving complex problems",
-    mission: "Building scalable solutions",
-    currentFocus: "Enterprise Laravel Applications",
+    passion: "Aprender , crecer y avanzar",
+    mission: "Construir soluciones escalables",
+    currentFocus: "ERPS y Desarrollo de Software",
     futureGoal: "Software Architect"
 }
 ```
 
 **🔥 Lo que me impulsa:**
-- 🎯 Crear impacto real a través de la tecnología
-- 🧩 Resolver problemas complejos con soluciones elegantes  
+- 🎯 Crear impacto tanto en mi entorno como en el exterior
+- 🧩 Resolver problemas complejos con soluciones legibles 
 - 📈 Construir aplicaciones que escalen y perduren
 - 🤝 Colaborar con equipos talentosos
 - 🌱 Aprender algo nuevo cada día
@@ -88,8 +88,6 @@ const developer = {
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelangep1p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelangep1p&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=miguelangep1p&theme=tokyonight&hide_border=true&border_radius=10)
-
 ## 💼 Experiencia & Skills
 
 <div align="center">
@@ -100,23 +98,20 @@ const developer = {
 <tr>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/><br>
-<strong>Laravel Expert</strong><br>
-<em>3+ años</em>
+<strong>Laravel</strong><br>
+<em>2 años</em>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br>
 <strong>React Developer</strong><br>
-<em>2+ años</em>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br>
 <strong>Database Design</strong><br>
-<em>4+ años</em>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/><br>
 <strong>Cloud Computing</strong><br>
-<em>1+ año</em>
 </td>
 </tr>
 </table>
@@ -130,10 +125,9 @@ const developer = {
 <img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 - 🌙 **Night Owl:** Mis mejores códigos salen después de las 10 PM
-- ☕ **Coffee Addict:** 4+ tazas de café al día (mínimo)
-- 🎮 **Gamer:** Counter-Strike y Valorant en tiempo libre
-- 📚 **Bookworm:** Leo 1 libro técnico al mes
-- 🎵 **Music:** Lofi hip hop mientras codifico
+- 🎮 **Gamer:** Juego en tiempo libre
+- 📚 **Bookworm:** Leo libros por pasion
+- 🎵 **Music:** Musica mientras codifico
 - 🌮 **Foodie:** Especialista en encontrar la mejor comida de Trujillo
 
 <br clear="left"/>
@@ -160,19 +154,19 @@ graph LR
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Conectemos!
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### 🌐 **Find Me Online**
+### 🌐 **Contactame**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Angel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-cabanillas-257205308)
 [![Gmail](https://img.shields.io/badge/Gmail-miguel.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcabanillasurbina@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@miguel_angel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelangep1p)
 
-### 💬 **Let's Talk About**
+### 💬 **Una charla interesante no se le niega a nadie**
 🚀 **Proyectos innovadores** • 💼 **Oportunidades laborales** • 🤝 **Colaboraciones**  
 📚 **Mentorías** • 🎯 **Tecnologías emergentes** • ☕ **Café y código**
 
@@ -180,7 +174,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 💡 *"Code is not just my profession, it's my passion"*
+### 💡 *"Codificar es traducir el caos del pensamiento en el orden de la lógica; es hablar con las máquinas para entender mejor a los humanos."*
 
 **¿Tienes una idea genial? ¡Hablemos y hagámosla realidad!** 🚀
 
