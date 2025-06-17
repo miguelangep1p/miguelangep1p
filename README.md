@@ -112,7 +112,7 @@ const developer = {
 
 ## 🌟 Fun Facts
 
-<img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 - 🌙 **Pensador Nocturno:** Mis mejores códigos salen después de las 10 PM
 - 🎮 **Gamer:** Juego en tiempo libre
