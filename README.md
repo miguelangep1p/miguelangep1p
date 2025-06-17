@@ -108,7 +108,7 @@ const developer = {
 
 </div>
 
-🌟 Fun Facts
+🌟 Fun Facts<br>
 🌙 Nocturno: Me concentro mejor al programar de noche.
 
 🎮 Gamer: Disfruto los videojuegos en mi tiempo libre.
