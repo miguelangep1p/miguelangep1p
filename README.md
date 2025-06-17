@@ -2,7 +2,7 @@
 
 # Hola soy Miguel Angel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer+Full+Stack+en+formación+constante;Laravel+%26+Full+Stack+En+Constante+Aprendizaje;Construyendo+el+Futuro+con+Código;7mo+Ciclo+%7C+Apasionado+por+la+Tecnología)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer+Full+Stack+en+formación+constante;Construyendo+el+Futuro+con+Código;7mo+Ciclo+%7C+Apasionado+por+la+Tecnología)](https://git.io/typing-svg)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
