@@ -109,7 +109,6 @@ const developer = {
 </div>
 
 🌟 Fun Facts
-<div align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" align="left" style="margin-right: 15px; border-radius: 10px;" /> </div>
 🌙 Nocturno: Me concentro mejor al programar de noche.
 
 🎮 Gamer: Disfruto los videojuegos en mi tiempo libre.
