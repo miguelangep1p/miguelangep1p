@@ -124,3 +124,80 @@
 ## 📚 Educación y Crecimiento
 
 <img align="right" alt="Pokemon coding" width="180" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-5bea0466a3ca.gif" />
+
+🎓 Universidad Nacional de Trujillo
+├── 📖 Ingeniería de Sistemas
+├── 📅 7mo Ciclo
+└── 🎯 Enfoque: Desarrollo de Software
+🚀 Especialización Actual
+├── ⭐ Laravel (Nivel Avanzado)
+├── 🔥 Full Stack Development
+└── 📈 Arquitectura de Software
+
+<br clear="right"/>
+
+---
+
+## 💼 Lo que me Motiva
+
+**🎯 Impacto:** Crear soluciones que resuelvan problemas reales  
+**🔧 Calidad:** Escribir código limpio, mantenible y escalable  
+**📚 Aprendizaje:** Mantenerme actualizado con las últimas tecnologías  
+**🤝 Colaboración:** Trabajar en equipo y compartir conocimientos  
+**🚀 Innovación:** Explorar nuevas formas de optimizar procesos  
+
+---
+
+## 📈 Actividad Reciente
+
+├── 💻 Trabajando en proyecto Laravel empresarial
+├── 📚 Estudiando patrones de diseño avanzados
+├── 🔍 Investigando arquitecturas de microservicios
+└── 🎯 Preparando para certificación Spring Boot
+
+<!--END_SECTION:activity-->
+
+---
+
+## 🎮 Random Dev Stuff
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+[![Snake Game](https://raw.githubusercontent.com/tu-usuario/tu-usuario/output/github-contribution-grid-snake-dark.svg)](https://github.com/tu-usuario)
+
+</div>
+
+---
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+<img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blueviolet)
+
+<br clear="left"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "La mejor manera de predecir el futuro es creándolo"
+
+**Miguel Angel** • **Ing. Sistemas @ UNT** • **Laravel Expert**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
