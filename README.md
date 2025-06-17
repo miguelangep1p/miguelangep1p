@@ -108,22 +108,21 @@ const developer = {
 
 </div>
 
----
+🌟 Fun Facts
+<div align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" align="left" style="margin-right: 15px; border-radius: 10px;" /> </div>
+🌙 Nocturno: Me concentro mejor al programar de noche.
 
-## 🌟 Fun Facts
+🎮 Gamer: Disfruto los videojuegos en mi tiempo libre.
 
-<img align="left" alt="Cat coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+📚 Amante de los libros: Leo por pasión, no por obligación.
 
- 🌙 **Nocturno:** Se codifica mejor en la noche <br>
- 🎮 **Gamer:** Juego en tiempo libre <br>
- 📚 **Amante de los Libros:** Leo libros por pasion<br>
- 🎵 **Musica:** Escucho musica mientras codifico<br>
- 🌮 **Comida:** Especialista en encontrar la mejor comida de Trujillo<br>
- 🐾 **Pet Lover:** Me encantan los animales!<br>
+🎵 Música: Siempre hay una playlist sonando mientras codifico.
+
+🌮 Comida: Cazador de los mejores sabores en Trujillo.
+
+🐾 Pet Lover: ¡Los animales me alegran el día!
 
 <br clear="left"/>
-
----
 
 ## 📈 Learning Journey
 
