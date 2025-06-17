@@ -12,6 +12,8 @@
 
 ## 🎯 Sobre Mí
 
+<img align="right" alt="Pacman eating code" width="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d6.gif" />
+
 **🎓 Estudiante de Ingeniería de Sistemas** - Universidad Nacional de Trujillo (7mo Ciclo)
 
 **💡 Mis Motivaciones:**
@@ -21,6 +23,8 @@
 - Construir una carrera sólida en desarrollo de software
 
 **🚀 Enfoque Actual:** Especializándome en desarrollo Full Stack con énfasis en Laravel
+
+<br clear="right"/>
 
 ---
 
@@ -119,64 +123,4 @@
 
 ## 📚 Educación y Crecimiento
 
-```
-🎓 Universidad Nacional de Trujillo
-   ├── 📖 Ingeniería de Sistemas
-   ├── 📅 7mo Ciclo
-   └── 🎯 Enfoque: Desarrollo de Software
-
-🚀 Especialización Actual
-   ├── ⭐ Laravel (Nivel Avanzado)
-   ├── 🔥 Full Stack Development
-   └── 📈 Arquitectura de Software
-```
-
----
-
-## 💼 Lo que me Motiva
-
-**🎯 Impacto:** Crear soluciones que resuelvan problemas reales  
-**🔧 Calidad:** Escribir código limpio, mantenible y escalable  
-**📚 Aprendizaje:** Mantenerme actualizado con las últimas tecnologías  
-**🤝 Colaboración:** Trabajar en equipo y compartir conocimientos  
-**🚀 Innovación:** Explorar nuevas formas de optimizar procesos  
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-```
-🔥 Últimas actividades:
-├── 💻 Trabajando en proyecto Laravel empresarial
-├── 📚 Estudiando patrones de diseño avanzados
-├── 🔍 Investigando arquitecturas de microservicios
-└── 🎯 Preparando para certificación Spring Boot
-```
-<!--END_SECTION:activity-->
-
----
-
-## 🌐 Conecta Conmigo
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "La mejor manera de predecir el futuro es creándolo"
-
-**Miguel Angel** • **Ing. Sistemas @ UNT** • **Laravel Expert**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-</div>
+<img align="right" alt="Pokemon coding" width="180" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-5bea0466a3ca.gif" />
