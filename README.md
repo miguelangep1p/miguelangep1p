@@ -7,8 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)]((https://www.linkedin.com/in/miguel-cabanillas-257205308/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcabanillasurbina@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miguelangep1p&style=for-the-badge&color=3b82f6)
 
