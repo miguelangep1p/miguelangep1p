@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 **🎓 Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Trujillo  
-**📍 7mo Ciclo** | **🇵🇪 Trujillo, Perú**
+**📍 8avo Ciclo** | **🇵🇪 Trujillo, Perú**
 
 Soy un desarrollador apasionado que vive y respira código. Mi misión es transformar ideas complejas en soluciones digitales elegantes y escalables. Con **2 años** desarrollando con tecnologías modernas.
 
